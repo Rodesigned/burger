@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/Rodesigned/burger/issues"
   },
-  "homepage": "https://github.com/Rodesigned/FriendFinder#readme",
+  "homepage": "https://github.com/Rodesigned/burger#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.16.3",
