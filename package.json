@@ -10,7 +10,6 @@
   "license": "ISC",
   "keywords": [],
   "description": "",
-  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Rodesigned/burger.git"
@@ -23,12 +22,8 @@
     "body-parser": "^1.18.2",
     "express": "^4.16.3",
     "express-handlebars": "^3.0.0",
+    "latest-version": "^3.1.0",
     "method-override": "^2.3.10",
-    "mysql": "^2.15.0",
-    "npm": "^5.7.1",
-    "path": "^0.12.7"
+    "mysql": "^2.15.0"
   }
 }
-
-
-
