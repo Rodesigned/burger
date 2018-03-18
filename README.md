@@ -1,7 +1,7 @@
 # Burger - Node Express Handlebars
 Check out the app running on heroku here: https://still-dawn-93328.herokuapp.com/
 
-[![](http://img.youtube.com/vi/7sRJLBH368Q/0.jpg)](http://www.youtube.com/watch?v=7sRJLBH368Q "")
+[![Video](http://img.youtube.com/vi/7sRJLBH368Q/0.jpg)](http://www.youtube.com/watch?v=7sRJLBH368Q )
 ### Overview
 
 In this assignment,  I created a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!).  Followed the MVC design pattern with Node and MySQL to query, and route data in my app and Handlebars to generate the HTML.
