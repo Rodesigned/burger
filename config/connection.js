@@ -1,6 +1,4 @@
 var mysql = require("mysql");
-if (process.env.NODE_ENV !== 'production') require('dotenv').config();
-
 var connection;
 
 //JAWSDB for Heroku deployment
