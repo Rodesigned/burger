@@ -26,3 +26,4 @@ var burgerORM = {
 };
 
 module.exports = burgerORM;
+
