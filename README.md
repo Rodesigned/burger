@@ -1,5 +1,5 @@
 # Burger - Node Express Handlebars
-Check out the app running on heroku here:
+Check out the app running on heroku here: https://still-dawn-93328.herokuapp.com/
 
 ### Overview
 
