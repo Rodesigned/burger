@@ -1,13 +1,13 @@
 <div class="burgerUI container">
 <div class="row">
 <div class="col-md-12 text-center">
-<h1>Eat-Da-Burger!</h1>
+<h2>Eat-Da-Burger!</h2>
 </div>
 
 </div>
   <div class="row">
-    <div class="col-md-4">
-      <h1 class="text-center">Burger List</h1>
+    <div class="col-md-6">
+      <h2 class="text-center">Burger List</h2>
       <ul class="list-group">
         {{#each burger}}
           {{#unless this.devoured}}
@@ -26,8 +26,8 @@
       </ul>
     </div><!--/column-->
 
-    <div class="col-md-4 col-md-offset-2">
-        <h1 class="text-center">Devoured</h1>
+    <div class="col-md-6">
+        <h2 class="text-center">Devoured</h2>
         <ul class="list-group">
             {{#each burger}}
             {{#if this.devoured}}
@@ -46,8 +46,8 @@
   </div><!-- /row -->
   <div class="sumbitRow">
     <div class="row">
-            <div class="col-md-4 col-md-offset-3 text-center">
-                <h1 class="text-center">Add a burger</h1>
+            <div class="col-md-12 text-center">
+                <h2 class="text-center">Add a burger</h2>
                       <form method="POST" action="/" class="button">
                         <textarea class="form-control" rows="1" type="text" name="burger"></textarea>
                         <button class="submitBurger" type="submit">Save burger!</button>
